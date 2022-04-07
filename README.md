@@ -18,7 +18,6 @@ Development Environment
 
 - AWS RDS Server
 - MySQL Workbench
-</br>
 
 #### Python
 
